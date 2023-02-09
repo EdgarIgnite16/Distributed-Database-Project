@@ -1,5 +1,5 @@
 # Distributed-Database
-- Nhóm đồ án Cơ sở dữ liệu phân tán
+- Đồ án môn Cơ sở dữ liệu phân tán
 
 
 ## Team member
