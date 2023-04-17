@@ -3,4 +3,11 @@
 	+ Miền Trung
 	+ Miền Nam
 
-- Do đó, Dữ liệu phân mảnh ngang thông qua mã Chi nhánh
+- Các Database đều được đặt tên như sau:
+	+ DB Tổng: KFF_MAIN
+	+ DB Miền Bắc: KFF_MIENBAC
+	+ DB Miền Trung: KFF_MIENTRUNG
+ 	+ DB Miền Nam: KFF_MIENNAM
+
+=> Do đó, Dữ liệu phân mảnh ngang thông qua mã Chi nhánh
+
