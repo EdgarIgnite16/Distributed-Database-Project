@@ -9,5 +9,8 @@
 	+ DB Miền Trung: KFF_MIENTRUNG
  	+ DB Miền Nam: KFF_MIENNAM
 
-=> Do đó, Dữ liệu phân mảnh ngang thông qua mã Chi nhánh
+=> Do đó, Dữ liệu phân mảnh ngang thông qua mã Chi nhánh trong Nhân Viên và Nguyên Liệu 
+Notes: 
+	+ Nhân viên phân mảnh cho biết nhân viên thuộc vùng nào trong hệ thống
+	+ Nguyên liệu đóng vai trò như một nhà kho lưu trữ của mỗi vùng trong hệ thống
 
