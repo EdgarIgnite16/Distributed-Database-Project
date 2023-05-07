@@ -1,7 +1,7 @@
 1. Xuất ra danh sách nhân viên của toàn chi nhánh => Lấy danh sách nhân viên toàn chi nhánh.
-2. Xuất ra danh sách hóa đơn của chi nhánh @xyz => Lấy danh sách hóa đơn của một chi nhánh bất kỳ.
+2. Xuất ra một hóa đơn thông qua mã hóa đơn @xyz và cho biết hóa đơn đó thuộc quản lí của chi nhánh nào => Xuất ra một hóa đơn thông qua mã hóa đơn @xyz và cho biết hóa đơn đó thuộc quản lí của chi nhánh nào.
 3. Xuất ra danh sách các món ăn có sử dụng nguyên liệu @xyz. => Tìm hiểu xem nguyên liệu đó được sử dụng cho món ăn nào.
-4. Xuất ra danh sách các hóa đơn có chứa các món ăn @xyz. => Truy vấn danh sách hóa đơn có order món ăn đó. 
+4. Xuất ra danh sách các hóa đơn của toàn chi nhánh có chứa các món ăn @xyz.=> Xuất ra danh sách các hóa đơn của toàn chi nhánh có chứa các món ăn @xyz
 5. Xuất ra danh sách hóa đơn của khách hàng @xyz. => Lấy ra danh sách hóa đơn của một khách hàng đã thanh toán.
 6. Xuất ra danh sách hóa đơn của nhân viên @xyz. => Lấy ra danh sách hóa đơn của một nhân viên đã thanh toán.
 7. Xuất ra chi tiết hóa đơn của hóa đơn @xyz: Danh sách món ăn, Thành tiền mỗi món ăn, Tên khách hàng thanh toán, Tên nhân viên thanh toán, Tổng thành tiền hóa đơn. => Lấy ra thông tin chi tiết hóa đơn của một hóa đơn nào đó.
