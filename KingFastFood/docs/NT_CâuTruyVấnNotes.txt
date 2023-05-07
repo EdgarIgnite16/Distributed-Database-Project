@@ -4,7 +4,7 @@
 4. Xuất ra danh sách các hóa đơn của toàn chi nhánh có chứa các món ăn @xyz.=> Xuất ra danh sách các hóa đơn của toàn chi nhánh có chứa các món ăn @xyz
 5. Xuất ra danh sách hóa đơn của khách hàng @xyz. => Lấy ra danh sách hóa đơn của một khách hàng đã thanh toán.
 6. Xuất ra danh sách hóa đơn của nhân viên @xyz. => Lấy ra danh sách hóa đơn của một nhân viên đã thanh toán.
-7. Xuất ra chi tiết hóa đơn của hóa đơn @xyz: Danh sách món ăn, Thành tiền mỗi món ăn, Tên khách hàng thanh toán, Tên nhân viên thanh toán, Tổng thành tiền hóa đơn. => Lấy ra thông tin chi tiết hóa đơn của một hóa đơn nào đó.
-8. Xuất ra tổng số lượng nguyên liệu @xyz của tất cả chi nhánh, đồng thời hiển thị số lượng nguyên liệu @xyz của từng chi nhánh => Lấy ra tổng số lượng của nguyên liệu cần tìm, đồng thời số lượng nguyên liệu đó ở từng chi nhánh.
-9. Xuất ra danh sách phiếu nhập của chi nhánh @xyz => Lấy ra danh sách phiếu nhập của chi nhánh cần tìm.
+7. Xuất ra chi tiết phiếu nhập (tên nguyên liệu, số lượng nhập, tên nhà cung cấp) của một phiếu nhập => Lấy CTPN
+8. Xuất ra chi tiết hóa đơn của hóa đơn @xyz: Danh sách món ăn, Thành tiền mỗi món ăn, Tên khách hàng thanh toán, Tên nhân viên thanh toán, Tổng thành tiền hóa đơn. => Lấy ra thông tin chi tiết hóa đơn của một hóa đơn nào đó.
+9. Xuất ra tổng số lượng nguyên liệu @xyz của tất cả chi nhánh, đồng thời hiển thị số lượng nguyên liệu @xyz của từng chi nhánh => Lấy ra tổng số lượng của nguyên liệu cần tìm, đồng thời số lượng nguyên liệu đó ở từng chi nhánh.
 10. Xuất ra danh sách mặt hàng (thông tin mặt hàng, số lượng nhập) đã nhập của toàn bộ chi nhánh trong @xyz tháng gần nhất tính từ thời điểm hiện tại => Lấy ra danh sách mặt hàng mà cửa hàng đã nhập trong số tháng nhất định tùy ý. Giống như việc mình muốn biết trong 2 tháng tính từ thời điểm hiện tại đổ lại đây cửa hàng đã nhập vào cái gì?
